@@ -5,6 +5,7 @@
   "compatibility": {
     "minimum": "14",
     "verified": "14"
+     "download":"https://github.com/JulienAllegro/martial-memoires/raw/refs/heads/main/martial-memoires.zip",
   },
   "description": "<p>Foundry Implementation for the Martial Memoires book</p>",
   "authors": [
@@ -39,5 +40,4 @@
       }
     ]
   }
-  "download":"https://github.com/JulienAllegro/martial-memoires/raw/refs/heads/main/martial-memoires.zip",
 }
