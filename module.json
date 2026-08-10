@@ -1,0 +1,42 @@
+{
+  "id": "martial-memoires",
+  "title": "Martial Memoires",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>Foundry Implementation for the Martial Memoires book</p>",
+  "authors": [
+    {
+      "name": "Invoquante",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Martial Memoires Archetypes",
+      "path": "packs/pack-1",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
