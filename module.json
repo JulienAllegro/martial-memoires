@@ -2,7 +2,7 @@
   "id": "martial-memoires",
   "title": "Martial Memoires",
   "download":"https://github.com/JulienAllegro/martial-memoires/raw/refs/heads/main/martial-memoires.zip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
